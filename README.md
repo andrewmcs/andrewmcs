@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @andrewmcs
+- 👋 Hi, I’m Andrew
 - 👀 I’m particularly interested in web and mobile app development. 
 - 🏥 I work as a Computer Scientist, and am also a registered Clinical Scientist.
 - 🎓 I have Masters degrees in Physics, High Performance Computing, and Clinical Science (Bioinformatics - Physical Sciences).
